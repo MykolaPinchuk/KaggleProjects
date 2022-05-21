@@ -9,4 +9,4 @@ All project names start with KP (i.e., Kaggle Project). Naming convention is as 
 - KP40-49: Computer vision problems.
 - KP50-59: More tabular classification problems.
 
-These projects are more advanced versions of the prvious iterations of Kaggle notebooks, stored in other repositories.  They use cleaner, more unified framework, based on proprocessing functions.
+These projects are more advanced versions of the previous iterations of Kaggle notebooks, stored in other repositories.  They use cleaner, more unified framework, based on proprocessing functions.
